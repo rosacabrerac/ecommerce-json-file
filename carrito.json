@@ -1,0 +1,24 @@
+{
+	"articles": [{
+			"name": "Popsocket varios diseños",
+			"count": 10,
+			"unitCost": 360,
+			"currency": "UYU",
+			"src": "img/popsocket.jpg"
+		},
+		{
+			"name": "Celular Xiaomi 10",
+			"count": 5,
+			"unitCost": 320,
+			"currency": "USD",
+			"src": "img/xiaomi.jpg"
+		},
+		{
+			"name": "Funda para Xiaomi 10 varios colores",
+			"count": "30",
+			"unitCost": 250,
+			"currency": "UYU",
+			"src": "img/xiaomi2.jpeg"
+		}
+	]
+}
