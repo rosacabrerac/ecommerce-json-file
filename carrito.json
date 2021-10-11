@@ -1,6 +1,6 @@
 {
 	"articles": [{
-			"name": "Popsocket varios diseños",
+			"name": "Popsocket - varios diseños",
 			"count": 2,
 			"unitCost": 360,
 			"type": "Dinosaurio verde",
@@ -16,7 +16,7 @@
 			"src": "img/xiaomi.jpg"
 		},
 		{
-			"name": "Funda para Xiaomi 10 varios colores",
+			"name": "Funda para Xiaomi 10 - varios colores",
 			"count": 1,
 			"unitCost": 250,
 			"type": "Amarillo",
